@@ -93,7 +93,7 @@ This project contains three files
 
 **How to run the code:**
 
-After finishing the scraping process run “Webapplication\_Redbus.py” using command “**streamlit run app.py**”
+After finishing the scraping process run “Webapplication\_Redbus.py” using command “**streamlit run streamlit_app.py**”
 
 
 
